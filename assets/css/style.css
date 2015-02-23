@@ -356,7 +356,7 @@ div.header div.site-description ul li a {
 }
 div.header div.site-description ul li a:hover,
 div.header div.site-description ul li a.active {
-  color: #1abc9c;
+  color: #15dbc0;
 }
 div.header a.logo {
   display: block;
@@ -628,7 +628,7 @@ div.post p.back {
 }
 div.post p.read-more a,
 div.post p.back a {
-  color: #1abc9c;
+  color: #15dbc0;
 }
 div.post p.read-more a:hover,
 div.post p.back a:hover {
@@ -646,7 +646,7 @@ div.post p.comments a {
   color: #999999;
 }
 div.post p.comments a:hover {
-  color: #1abc9c;
+  color: #15dbc0;
 }
 div.post h1 {
   font-size: 38px;
