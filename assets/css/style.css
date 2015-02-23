@@ -354,7 +354,9 @@ div.header div.site-description ul li a {
   color: #fff;
   font-size: 14px;
 }
-div.header div.site-description ul li a:hover,
+div.header div.site-description ul li a:hover {
+    color: #15dbc0;
+}
 div.header div.site-description ul li a.active {
   color: #15dbc0;
 }
