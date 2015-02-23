@@ -181,7 +181,7 @@ html {
 }
 body {
   line-height: 1.65;
-  font-family: sans-serif, serif;
+  font-family: serif;
   height: 100%;
   width: 100%;
 }
@@ -233,15 +233,15 @@ input[type="button"].btn {
 }
 a {
   text-decoration: none;
-  color: #1abc9c;
+  color: #25eed2;
 }
 a:visited {
-  color: #1abc9c;
+  color: #25eed2;
 }
 a:hover {
   color: #000000;
   text-decoration: none;
-  color: #1abc9c;
+  color: #25eed2;
 }
 div.header {
   position: fixed;
